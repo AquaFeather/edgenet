@@ -2,11 +2,12 @@ site_name: EdgeNet Library
 nav:
 - {"主页": "index.md"}
 - {"ECOA 用户隐私政策": "ecoa-policy.md"}
+- {"SDVX VI 20230425": "sdvx-6-20230425.md"}
 theme:
   name: material
   logo: assets/images/logo.png
 extra:
-  homepage: https://entech.link
+  homepage: https://www.edgenet.ltd/
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
