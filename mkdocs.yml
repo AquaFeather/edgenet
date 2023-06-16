@@ -6,7 +6,7 @@ theme:
   name: material
   logo: assets/images/logo.png
 extra:
-  homepage: https://entech.link
+  homepage: https://www.edgenet.ltd/
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
